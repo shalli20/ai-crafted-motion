@@ -5,46 +5,46 @@ import { Building2, Users, Award, Clock } from "lucide-react";
 const Experience = () => {
   const experiences = [
     {
-      title: "Senior Video Editor",
-      company: "Lobale AI",
-      period: "2023 - Present",
+      title: "Administrative Aide III (Clerk II)",
+      company: "Department of Education - Division of City Schools Caloocan",
+      period: "January 2024 - Present",
       type: "Full-time",
-      description: "Leading video content creation for AI-powered platforms, developing innovative storytelling techniques and implementing automated editing workflows.",
+      description: "Supporting educational administration through learner information management, research coordination, and creative content automation for educational programs and events.",
       achievements: [
-        "Increased content production efficiency by 150%",
-        "Developed AI-assisted editing pipeline",
-        "Created viral marketing campaigns reaching 2M+ views",
-        "Mentored junior editors and motion graphics artists"
+        "Streamlined Learner Information System management processes",
+        "Automated creative program and event banner production",
+        "Implemented video highlight automation for educational events",
+        "Enhanced M&E monitoring and evaluation of educational programs"
       ],
-      skills: ["AI Integration", "Team Leadership", "Creative Direction"]
-    },
-    {
-      title: "Motion Graphics Artist",
-      company: "Creative Studios Inc.",
-      period: "2021 - 2023",
-      type: "Full-time",
-      description: "Specialized in creating dynamic motion graphics for commercials, explainer videos, and brand campaigns across multiple industries.",
-      achievements: [
-        "Delivered 200+ motion graphics projects",
-        "Won 'Best Visual Effects' at Local Film Festival",
-        "Reduced project turnaround time by 40%",
-        "Collaborated with Fortune 500 clients"
-      ],
-      skills: ["After Effects", "Cinema 4D", "Brand Design"]
+      skills: ["Educational Technology", "Data Management", "Creative Automation"]
     },
     {
       title: "Freelance Video Editor",
-      company: "Independent",
-      period: "2019 - 2021",
+      company: "The Manila Times TV",
+      period: "February 2022 - December 2023",
       type: "Freelance",
-      description: "Provided video editing services for small businesses, content creators, and marketing agencies, building a diverse portfolio of work.",
+      description: "Executed comprehensive post-production workflows for broadcast television content, ensuring high-quality video output for news and media programs.",
       achievements: [
-        "Completed 150+ freelance projects",
-        "Maintained 5-star client rating",
-        "Built long-term partnerships with 20+ clients",
-        "Specialized in social media content optimization"
+        "Delivered professional post-production for major TV network",
+        "Managed end-to-end video editing workflows",
+        "Optimized audio design and sequence compression",
+        "Maintained consistent quality standards for broadcast content"
       ],
-      skills: ["Client Management", "Multi-platform Content", "Social Media"]
+      skills: ["Broadcast Editing", "Sound Design", "Post-Production"]
+    },
+    {
+      title: "Freelance e-Learning Developer",
+      company: "Bhasa Learning System, Co. Inc. (Bihasa)",
+      period: "August 2021 - Present",
+      type: "Freelance",
+      description: "Transforming traditional educational content into engaging interactive digital experiences, focusing on literature and educational material enhancement.",
+      achievements: [
+        "Converted non-interactive content to highly interactive formats",
+        "Improved user engagement through interactive literature design",
+        "Analyzed user feedback to optimize learning experiences",
+        "Recommended system improvements based on user data"
+      ],
+      skills: ["e-Learning Development", "Interactive Design", "Educational Content"]
     }
   ];
 
