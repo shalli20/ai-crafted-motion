@@ -43,7 +43,7 @@ const Navigation = () => {
             <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center">
               <Play className="h-4 w-4 text-primary-foreground" />
             </div>
-            <span className="text-xl font-bold text-foreground">Alex Rodriguez</span>
+            <span className="text-xl font-bold text-foreground">Mark Shalli</span>
           </div>
 
           {/* Desktop Navigation */}

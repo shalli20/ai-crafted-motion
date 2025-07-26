@@ -7,8 +7,8 @@ const Contact = () => {
     {
       icon: Mail,
       label: "Email",
-      value: "alex@lobaleai.com",
-      href: "mailto:alex@lobaleai.com"
+      value: "mark@lobaleai.com",
+      href: "mailto:mark@lobaleai.com"
     },
     {
       icon: Phone,
@@ -28,19 +28,19 @@ const Contact = () => {
     {
       icon: Linkedin,
       label: "LinkedIn",
-      href: "https://linkedin.com/in/alexrodriguez",
+      href: "https://linkedin.com/in/markshalli",
       color: "hover:text-blue-400"
     },
     {
       icon: Twitter,
       label: "Twitter",
-      href: "https://twitter.com/alexrodriguez",
+      href: "https://twitter.com/markshalli",
       color: "hover:text-blue-400"
     },
     {
       icon: Github,
       label: "GitHub",
-      href: "https://github.com/alexrodriguez",
+      href: "https://github.com/markshalli",
       color: "hover:text-gray-400"
     }
   ];

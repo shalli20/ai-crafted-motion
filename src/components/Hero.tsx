@@ -14,7 +14,7 @@ const Hero = () => {
       <div className="container mx-auto px-6 text-center relative z-10">
         <div className="animate-fade-in">
           <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
-            <span className="block text-foreground">Alex Rodriguez</span>
+            <span className="block text-foreground">Mark Shalli</span>
             <span className="block gradient-text mt-2">Video Editor</span>
           </h1>
           
