@@ -19,7 +19,7 @@ const Hero = () => {
           </h1>
           
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto">
-            <span className="block">Motion Graphics Artist</span>
+            <span className="block">Graphic Designer</span>
             <span className="block mt-2 text-primary font-medium">Crafting Cinematic Stories with AI & Creativity</span>
           </p>
           

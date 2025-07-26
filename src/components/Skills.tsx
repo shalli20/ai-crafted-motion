@@ -4,40 +4,22 @@ import { Monitor, Film, Palette, Zap, Camera, Layers } from "lucide-react";
 const Skills = () => {
   const skills = [
     {
+      name: "Adobe Photoshop",
+      icon: Palette,
+      level: 90,
+      description: "Digital design and photo manipulation mastery"
+    },
+    {
       name: "Adobe Premiere Pro",
       icon: Film,
-      level: 95,
+      level: 85,
       description: "Professional video editing and timeline management"
     },
     {
-      name: "After Effects",
+      name: "Adobe After Effects",
       icon: Layers,
-      level: 90,
+      level: 50,
       description: "Motion graphics and visual effects creation"
-    },
-    {
-      name: "DaVinci Resolve",
-      icon: Palette,
-      level: 85,
-      description: "Color grading and professional finishing"
-    },
-    {
-      name: "AI Video Tools",
-      icon: Zap,
-      level: 88,
-      description: "Automated editing and AI-powered workflows"
-    },
-    {
-      name: "Cinema 4D",
-      icon: Monitor,
-      level: 80,
-      description: "3D modeling and animation integration"
-    },
-    {
-      name: "Camera Work",
-      icon: Camera,
-      level: 82,
-      description: "Cinematography and shot composition"
     }
   ];
 
