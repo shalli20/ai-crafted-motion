@@ -7,19 +7,19 @@ const Contact = () => {
     {
       icon: Mail,
       label: "Email",
-      value: "mark@lobaleai.com",
-      href: "mailto:mark@lobaleai.com"
+      value: "barcelonmarkshalli@gmail.com",
+      href: "mailto:barcelonmarkshalli@gmail.com"
     },
     {
       icon: Phone,
       label: "Phone",
-      value: "+1 (555) 123-4567",
-      href: "tel:+15551234567"
+      value: "09619297824",
+      href: "tel:+639619297824"
     },
     {
       icon: MapPin,
       label: "Location",
-      value: "San Francisco, CA",
+      value: "Bulacan, Philippines",
       href: "#"
     }
   ];
